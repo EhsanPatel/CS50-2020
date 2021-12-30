@@ -1,5 +1,6 @@
 # CS50 AP Computer Science Principles
-Access the course website for more details:
+
+**Access the course website for more details:**
 [https://cs50.harvard.edu/x/2020/weeks/6/](https://cs50.harvard.edu/x/2020/weeks/6/)
 
 ## Purpose
